@@ -6,5 +6,5 @@ def iter_sum(array)
 	sum
 end
 
-#example
-iter_sum([2,4,5,5,6])
+#examples
+iter_sum([2,3,4,5,5,6])
